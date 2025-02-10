@@ -11,7 +11,7 @@ This is largely based on [the work done by AndrewStetsenko here](https://github.
 ## 1. Resume
 - [Europass CV](https://europass.europa.eu/en/create-europass-cv) is a free service provided by the EU to help people generate a CV that is accepted across the EU. This is a service that puts it into a common format.
 
-- [VisualCV](https://www.visualcv.com/international/) also provides a great amount of resources and templates for putting CVs into country-specific formats that conform with country-specific guidelines. For example, the [typical CV for Germany](https://www.visualcv.com/international/germany-cv/) is a lot different than the [typical CV for Ireland](https://www.visualcv.com/international/ireland/].
+- [VisualCV](https://www.visualcv.com/international/) also provides a great amount of resources and templates for putting CVs into country-specific formats that conform with country-specific guidelines. For example, the [typical CV for Germany](https://www.visualcv.com/international/germany-cv/) is a lot different than the [typical CV for Ireland](https://www.visualcv.com/international/ireland/).
 
 One major thing to note is that all European countries use A4 size paper, so when saving your CV in Word, make sure you have set the page layout for A4:
 1. Click the **Layout** tab in the top ribbon.
@@ -22,7 +22,7 @@ One major thing to note is that all European countries use A4 size paper, so whe
 ## 2. Job Search
 Depending on where you want to go, there are multiple job boards to look at, but you'll likely want the ones with English speaking jobs.
 
-Before anything, make sure to install the [Google Translate](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en], which will help translate websites in other languages [most should have a tab to select English instead of the native language, but this helps if it doesn't].
+Before anything, make sure to install the [Google Translate](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en), which will help translate websites in other languages [most should have a tab to select English instead of the native language, but this helps if it doesn't].
 
 - [Relocate.me](https://relocate.me/international-jobs) is a job board that specifically displays jobs with relocation. This scrapes a few different job boards and puts them into one webpage. *NOTE: Some of the job postings may already be closed and haven't been removed, so be prepared to sift through a few.*
 
